@@ -16,3 +16,14 @@ print(course.find('c')) # 23
 # replace function
 title = "hello world"
 print(title.replace('world', 'world!'))
+
+# boolean expiration in string
+print('hello' in title)
+print(title.title())
+
+title.upper()
+title.lower()
+title.find('p')
+title.title()
+title.replace()
+'express' in title
