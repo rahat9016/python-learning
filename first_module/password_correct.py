@@ -3,6 +3,7 @@ password = 6;
 program_running = True;
 password_limit = 3;
 count = 0
+
 while program_running:
     count += 1
     user_pass = int(input("Enter you password:- "))
